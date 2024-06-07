@@ -1,4 +1,4 @@
-# Algorithm-Practice
+# AlgoRhythms
 
 ## Introduction
 
