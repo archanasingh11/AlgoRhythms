@@ -1,3 +1,8 @@
+#Find The Lowest Value in an Array
+
+#Time Complexity = O(n)
+
+
 arr= [34,67,32,76,58,63,4]
 
 
