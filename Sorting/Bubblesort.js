@@ -1,3 +1,10 @@
+// Bubble Sort
+
+// Time Complexity = O(n²)
+
+
+
+
 function bubbleSort(arr) {
     const n = arr.length;
     let swapped;

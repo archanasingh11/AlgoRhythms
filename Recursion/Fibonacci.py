@@ -1,5 +1,6 @@
 #The Fibonacci Number Algorithm using Recursion
 
+#Time Complexity = O(n)
 
 prev0 = 0
 prev1 = 1
